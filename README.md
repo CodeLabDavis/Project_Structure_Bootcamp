@@ -2,9 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## CodeLab Project Structure Reference Code: Getting Started
 
-First, run the development server:
+First, install all the npm packages, then run the server:
 
 ```bash
+npm install
 npm run dev
 ```
 
